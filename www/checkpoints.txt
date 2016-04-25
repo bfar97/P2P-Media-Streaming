@@ -1,0 +1,11 @@
+/**********************************************************************************************
+
+Step 1. Work with the JSON file to get the movies infos and store.
+
+Step 2. Use WebTorrent library to play the movies.
+
+Step 3. Generate unique link per movie page.
+
+Step 4. Use Socket.IO to bind the video playback with connections to the same link.
+
+*************************************************************************************************/
