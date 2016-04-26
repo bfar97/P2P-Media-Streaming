@@ -1,6 +1,6 @@
 	$(document).ready(function(){
 		
-		var movies_url = "https://yts.ag/api/v2/list_movies.json?callback=?";
+		var movies_url = "https://yts.ag/api/v2/list_movies.json";
 
 		var socket = io();
 
